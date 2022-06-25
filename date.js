@@ -2,7 +2,7 @@
 
  export const getDate = () => {
     let today = new Date();
-    let options = {
+    let options = { 
       weekday: "long",
       day: "numeric",
       month: "long",
